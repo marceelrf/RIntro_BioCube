@@ -1,4 +1,6 @@
 # RIntro BioCube
+###### *created and maintained by [marceelrf](https://github.com/marceelrf)*
+
 Esse repositório é parte do treinamento de introdução ao R do BioCube.
 
 ## Iniciando

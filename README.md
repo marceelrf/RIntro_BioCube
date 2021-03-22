@@ -1,7 +1,7 @@
 # RIntro BioCube
 ###### *created and maintained by [marceelrf](https://github.com/marceelrf)*
 
-Esse repositório é parte do treinamento de introdução ao R do BioCube.
+Esse repositório é parte do treinamento de introdução ao R do BioCube group.
 
 ## Iniciando
 Primeiro é necessário termos R instalado em nosso sistema.Para isso baixe o R no site do [CRAN](https://cran.r-project.org/) e instale. 
